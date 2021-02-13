@@ -14,8 +14,8 @@ Last Updated: February 2021
 * 1 plate
 * 1 bottom/case
 * 28 spacers (14 short, 14 tall)
-* 14 screws
-* 14 small bolts
+* 14 bolts
+* 14 nuts
 * 42 washers
 * 0-2 rotary encoders and knobs (2 encoders only supported if using Elite-C controller)
 
@@ -64,19 +64,19 @@ Note that your PCB has several bottom row configurations.  Choose your desired l
 *Example: 3x1u, 1.25u, 1.5u, 1.5u, 1.25u, 3x1u layout*
 ![Two 1.25u keys and two 1.5u keys used in center](images/keys_125-15-15-125.jpg)
 
-Place the short spacers over the 14 screw holes in the top of the PCB, with washers underneath to protect the PCB. 
+Place the short spacers over the 14 bolt holes in the top of the PCB, with washers underneath to protect the PCB. 
 
 Now place the plate over the PCB, ensuring 
-* the 14 screw holes line up
+* the 14 bolt holes line up
 * each switch's pins go through the corresponding PCB holes undamanged, and 
 * any rotary encoders fit through their spots on the plate.
 
-Insert the screws to hold the spacers in place.
+Insert the bolts to hold the spacers in place.
 
-*View from top of PCB/plate (screws not placed yet in this image)*
+*View from top of PCB/plate (bolts not placed yet in this image)*
 ![Switches placed and aligned with plate](images/switches_placed.jpg)
 
-*View from bottom of PCB/plate (screws not placed yet in this image)*
+*View from bottom of PCB/plate (bolts not placed yet in this image)*
 ![Switches and rotary encoder soldered](images/switches_soldered.jpg)
 
 
@@ -99,13 +99,13 @@ After verifying that the ProMicro works, you can install it by following these s
 
 # Step 5: Install the spacers and align bottom/case
 
-Turn your build so that the bottom side of the PCB is facing up.  You should see the 14 screws protruding from the holes.  Place a washer on each screw (to protect the PCB), then screw one long spacers onto each screw.  Place another washer on top of each spacer (to protect the case).
+Turn your build so that the bottom side of the PCB is facing up.  You should see the 14 bolts protruding from the holes.  Place a washer on each bolt (to protect the PCB), then screw one long spacer onto each bolt.  Place another washer on top of each spacer (to protect the case).
 
 ![Spacers and washers installed on bottom of PCB](images/spacers.jpg)
 
-Place the case over the screws and PCB.  Align it so that the screws poke through the holes in the bottom of the case.  There is an extra hole in the bottom of the case to provide access to the PCB reset button.  And there is a hole in the top side of the case to provide access to the USB port.
+Place the case over the bolts and PCB.  Align it so that the bolts poke through the holes in the bottom of the case.  There is an extra hole in the bottom of the case to provide access to the PCB reset button.  And there is a hole in the top side of the case to provide access to the USB port.
 
-Use the washers provided to secure the screws to the bottom of the case.
+Use the nuts provided to secure the bolts to the bottom of the case.
 
 # Step 6: Complete the build
 
