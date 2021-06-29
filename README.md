@@ -2,7 +2,7 @@
 
 Written: February 2021
 
-Last Updated: February 2021
+Last Updated: June 2021
 
 *Note: Images in this guide were taken using test-build components before the group buy. It is possible there are minor differences between the components you see in these photos and the group buy products you received.*
 
@@ -13,7 +13,7 @@ Last Updated: February 2021
 * 1 Vanana PCB
 * 1 plate
 * 1 bottom/case
-* 28 spacers (14 short, 14 tall)
+* 14 spacers
 * 14 bolts
 * 14 nuts
 * 42 washers
@@ -64,19 +64,16 @@ Note that your PCB has several bottom row configurations.  Choose your desired l
 *Example: 3x1u, 1.25u, 1.5u, 1.5u, 1.25u, 3x1u layout*
 ![Two 1.25u keys and two 1.5u keys used in center](images/keys_125-15-15-125.jpg)
 
-Place the short spacers over the 14 bolt holes in the top of the PCB, with washers underneath to protect the PCB. 
 
 Now place the plate over the PCB, ensuring 
 * the 14 bolt holes line up
-* each switch's pins go through the corresponding PCB holes undamanged, and 
+* each switch's pins go through the corresponding PCB holes undamaged, and 
 * any rotary encoders fit through their spots on the plate.
 
-Insert the bolts to hold the spacers in place.
-
-*View from top of PCB/plate (bolts not placed yet in this image)*
+*View from top of PCB/plate*
 ![Switches placed and aligned with plate](images/switches_placed.jpg)
 
-*View from bottom of PCB/plate (bolts not placed yet in this image)*
+*View from bottom of PCB/plate*
 ![Switches and rotary encoder soldered](images/switches_soldered.jpg)
 
 
@@ -99,13 +96,17 @@ After verifying that the ProMicro works, you can install it by following these s
 
 # Step 5: Install the spacers and align bottom/case
 
-Turn your build so that the bottom side of the PCB is facing up.  You should see the 14 bolts protruding from the holes.  Place a washer on each bolt (to protect the PCB), then screw one long spacer onto each bolt.  Place another washer on top of each spacer (to protect the case).
+Insert the 14 bolts in the top of the plate, down through the PCB (using washers in between the bolt and the plate if you want to protect the plate). Turn your build so that the bottom side of the PCB is facing up.  You should see the 14 bolts protruding from the holes.  Place a washer on each bolt (to protect the PCB), then screw one spacer onto each bolt.  Place another washer on top of each spacer (to protect the case).
 
 ![Spacers and washers installed on bottom of PCB](images/spacers.jpg)
 
 Place the case over the bolts and PCB.  Align it so that the bolts poke through the holes in the bottom of the case.  There is an extra hole in the bottom of the case to provide access to the PCB reset button.  And there is a hole in the top side of the case to provide access to the USB port.
 
+![Bolts through bottom of case](images/bottom_bolts.jpg)
+
 Use the nuts provided to secure the bolts to the bottom of the case.
+
+![Nuts securing the bolts on the bottom of case](images/bottom_nuts.jpg)
 
 # Step 6: Complete the build
 
